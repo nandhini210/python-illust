@@ -1,0 +1,6 @@
+                                                                                              odd or even algorithm 
+1. Start
+2.Take an integar from the user 
+3.Use the modulus operator to check the remainder when the number is by 
+4.If the remainder is 0, the number is even;otherwise ,it is odd 
+5.End the program
